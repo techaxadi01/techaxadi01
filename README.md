@@ -2,9 +2,9 @@
 
 > *"From equations to algorithms — fueled by scientific curiosity!"*
 
-Science graduate (BSc PCM) and MCA student at Christ University, Bengaluru. Curious, fast learner, and passionate about building practical software.
+MCA student at Christ University, Bengaluru. Curious, fast learner, and passionate about building practical software.
 
-* 🎓 **Education:** MCA Student @ Christ (Deemed to be University), Bengaluru (2025 – 2028).
+* 🎓 **Education:** MCA Student @ Christ University, Bengaluru (2025 – 2028).
 * 💻 **Languages & Core:** C++, C, Python, JavaScript, TypeScript, SQL, HTML/CSS, Visual Basic.
 * 🌐 **Web Development:** React, Next.js, Node.js, Express.js, Tailwind CSS, REST APIs.
 * 🗄️ **Databases & Tools:** MySQL, MongoDB, SQLite, Git, GitHub, VS Code, Vercel, Postman.
