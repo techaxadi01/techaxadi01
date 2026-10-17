@@ -1,6 +1,8 @@
 ### 👋 Hi, I'm Aditya!
 
-MCA student at Christ (Deemed to be University), Bengaluru. Passionate about learning computer science fundamentals, building full-stack web applications, and exploring new technologies.
+> 💬 *"From equations to algorithms — fueled by scientific curiosity!"*
+
+Science graduate (BSc PCM) and MCA student at Christ (Deemed to be University), Bengaluru. With an analytical, first-principles mindset and a deep desire to learn, I adapt quickly to new technologies, explore computer science fundamentals, and build practical software.
 
 * 🎓 **Education:** MCA Student @ Christ (Deemed to be University), Bengaluru (2025 – 2028).
 * 💻 **Languages & Core:** C++, C, Python, JavaScript, TypeScript, SQL, HTML/CSS, Visual Basic.
